@@ -1,0 +1,59 @@
+SCRIPT PARA CRIAÇÃO DO BANCO
+
+create table academia(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	tipo varchar(20),
+	data varchar(10),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+create table basquete(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	especificacao varchar(60),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+create table ciclismo(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	tipo varchar(20),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+create table corrida(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	tipo varchar(20),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+create table futebol(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	especificacao varchar(60),
+	cor varchar(20),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+create table tenis(
+	id serial primary key,
+	nome varchar(60),
+	marca varchar(60),
+	classificacao varchar(60),
+	quantidade varchar(5),
+	preco varchar(10)
+);
+
+

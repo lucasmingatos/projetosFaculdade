@@ -1,0 +1,12 @@
+C:\Users\prodrigo\source\repos\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\prodrigo\source\repos\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\prodrigo\source\repos\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.FormPrincipal.resources
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.FormEditora.resources
+C:\Users\prodrigo\source\repos\Livraria\Livraria\obj\Debug\Livraria.FormLivro.resources
